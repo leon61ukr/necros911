@@ -19,3 +19,8 @@ html * { z-index: 1; position:relative; }
 	position:fixed;
 	z-index:-1;
 }
+
+.modal-backdrop
+{
+    opacity:0 !important;
+}

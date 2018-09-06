@@ -20,3 +20,8 @@ html * { z-index: 1; position:relative; }
 	z-index:-1;
 	border-radius:1000px;
 }
+
+.modal-backdrop
+{
+    opacity:0 !important;
+}

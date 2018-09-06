@@ -24,3 +24,8 @@ html * { z-index: 1;}
 	margin: 0;
 	padding: 0;
 }
+
+.modal-backdrop
+{
+    opacity:0 !important;
+}
