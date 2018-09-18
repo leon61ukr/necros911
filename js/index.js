@@ -9,5 +9,5 @@ if (audioNew.play) {
   audioNew.play();
 }
 else {
-  audioNew.innerHTML = '<embed src="' + audioNew.attributes.src.value + '" autostart=true loop=false volume=100 hidden=true></embed>';
+  audioNew.innerHTML = '<embed src="' + audioNew.attributes.src.value + '" autostart=true loop=true volume=100 hidden=true></embed>';
 }
