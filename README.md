@@ -1,12 +1,10 @@
-# necros911
-
-Hi here
-
-This project is almost private. It was created to leave a message of gratitude to our mentor.
+Hi here!
+This project is almost private. 
+It was created to leave a message of gratitude to our mentor.
 Each message on a unique link, with which a QR code was then created.
 
 And as result:
-<br />➡️ [mykola](https://leon61ukr.github.io/necros911/mykola)
+<br>➡️ [mykola](https://leon61ukr.github.io/necros911/mykola)
 <img height="37px" width="37px" src="https://raw.githubusercontent.com/leon61ukr/necros911/gh-pages/qr-code/mykola.svg?sanitize=true">
 <br />➡️ [nikki](https://leon61ukr.github.io/necros911/nikki)
 <img height="37px" width="37px" src="https://raw.githubusercontent.com/leon61ukr/necros911/gh-pages/qr-code/nikki.svg?sanitize=true">
@@ -20,4 +18,3 @@ And as result:
 <img height="37px" width="37px" src="https://raw.githubusercontent.com/leon61ukr/necros911/gh-pages/qr-code/vova.svg?sanitize=true">
 <br />➡️ [nazik](https://leon61ukr.github.io/necros911/nazik)
 <img height="37px" width="37px" src="https://raw.githubusercontent.com/leon61ukr/necros911/gh-pages/qr-code/nazik.svg?sanitize=true">
-
