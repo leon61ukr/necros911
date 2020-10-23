@@ -15,4 +15,5 @@ And as result:
 <br />➡️ [nazik](https://leon61ukr.github.io/necros911/nazik)
 
 
+[<img align="left" alt="lina" width="200px" src="qr-code/lina.svg" />][website]
 
